@@ -1,0 +1,17 @@
+# Private: real Wi-Fi name and password for the hub
+firmware/**/secrets.h
+
+# macOS
+.DS_Store
+
+# Node / Expo (also covered in app/.gitignore)
+node_modules/
+.expo/
+dist/
+
+# Local Claude Code state
+.claude/settings.local.json
+
+# Python (mock-hub)
+.venv/
+__pycache__/

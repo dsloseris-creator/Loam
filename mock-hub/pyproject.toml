@@ -1,0 +1,6 @@
+[project]
+name = "mock-hub"
+version = "0.1.0"
+description = "A pretend plant hub and sensors, so the app can be developed without hardware"
+requires-python = ">=3.9"
+dependencies = []  # standard library only, on purpose
